@@ -1,5 +1,5 @@
 const clientID = `996f3dc30e704aa4a85c340e8a24394b`;
-const redirectURI = `http://localhost:3000/` || `http://project-jamm.surge.sh/`;
+const redirectURI = `http://localhost:3000/`;
 
 let accessToken;
 
